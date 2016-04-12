@@ -8,7 +8,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://123.126.34.100:8081/MOBILE/iosapp/hnunicomTest.ipa</string>
+					<string>http://appleliguo.gicp.net/MOBILE/iosapp/hnunicomTest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -16,7 +16,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://123.126.34.100:8081/MOBILE/iosapp/icon@2x.png</string>
+					<string>http://appleliguo.gicp.net/MOBILE/iosapp/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -24,7 +24,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://123.126.34.100:8081/MOBILE/iosapp/icon.png</string>
+					<string>http://appleliguo.gicp.net/MOBILE/iosapp/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
